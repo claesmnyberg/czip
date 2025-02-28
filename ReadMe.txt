@@ -1,6 +1,6 @@
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
        czip - A Lempel Ziv Welch compressing program in x86 assembler
-              Author: Claes M Nyberg <cmn@signedness.org>
+              Author: Claes M Nyberg <cmn@signedness.org>, 2003
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
              
              0. Introduction
